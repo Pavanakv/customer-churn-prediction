@@ -66,8 +66,7 @@ Create a web dashboard to visualize predictions and trends.
 🤝 Contributions
 Contributions are welcome! If you find a bug or want to add a feature, feel free to submit an issue or a pull request.
 
-🧑‍💻 Author
-Your Name
+🧑‍💻 Pavana K V
 
 GitHub: https://github.com/Pavanakv
 LinkedIn: https://linkedin.com/in/Pavana-kv
